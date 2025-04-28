@@ -8,7 +8,7 @@ from my_tools import load_image, snd_dir, size, width, height
 from classes import Wolf, Egg, Chicken, Switch, Push
 from classes import EGG, CATCH, NO_CATCH
 from classes import FONT, DIFFICULT, LEVELS
-from classes import points_chicken, switch_on, points_push, push_on, points_egg, \
+from classes import points_chicken, points_push, points_egg, \
     points_switch, points_wolf, points_catch
 from classes import all_sprites, control_sprites
 
